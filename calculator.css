@@ -1,0 +1,34 @@
+.container{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: rgb(237, 241, 241);
+    
+}
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid rgb(224, 196, 142);
+    border-radius: 49px;
+    cursor: pointer;
+    box-shadow: 20px black;
+    
+}
+.row input{
+    margin: 5px;
+    padding: 50px 0px;
+    border: 0px solid rgb(130, 165, 197);
+    width: 291px;
+    background: transparent;
+    border-radius: 20px;
+    font-size: 30px;
+    flex-direction: var(white);
+    border: 0px solid rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.2);
+}
+body{
+    background: rgb(80, 77, 77);
+}
+

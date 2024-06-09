@@ -1,0 +1,18 @@
+.row{
+    margin: 8px 0;
+}
+.button{
+    border: 2px solid transparent;
+    text-transform: uppercase;
+    outline: none;
+    transition: all .3s ease;
+    font-size: 1rem;
+    background: aqua;
+    padding: 20px;
+    font-weight: 600;
+}
+.button:hover{
+    background: transparent;
+    border-color: aqua;
+    color: rgb(216, 129, 29);
+}
